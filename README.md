@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Athanasia Nicolaou</h1>
 <h3 align="center">Computer Science Student @ University of Surrey | Turning Ideas into Solutions Through Code</h3>
 
+<h2>💫 About Me:</h2>
+
 - 🔭 I’m currently building [my Recipe Website](https://github.com/AthanasiaNicolaou/recipe-site)
 
 - 📫 How to reach me: **sianicolaou1@gmail.com**
